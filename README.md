@@ -1,3 +1,4 @@
+https://github.com/Khushbooaggarwal9582/card-draw/blob/main/Screenshot%202025-09-06%20150542.png
 # 🃏 CardDraw dApp on Algorand
 
 Welcome to **CardDraw**, a decentralized application (dApp) built on the Algorand blockchain that allows users to draw, view, and clear virtual cards — all stored immutably and transparently via a smart contract.
